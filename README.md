@@ -1,4 +1,4 @@
-# 🧠 Codenova – AI-Powered Web IDE
+# 🧠 Codenova – AI Powered Web IDE
 
 
 
